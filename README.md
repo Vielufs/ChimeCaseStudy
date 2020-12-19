@@ -1,6 +1,6 @@
 # Chime
 
-    ![Chime](chime.jpg)
+   ![chime](chime.jpg)
 
     
 
